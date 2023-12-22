@@ -1,3 +1,9 @@
 # CodeClause-Inter
-#CodeClause java development intern.
-task 1 - PDF Splitter
+#CodeClause java development Intern.
+It is a TaskBased Assignment as a Intern.
+
+Task 1 : -  PDF SPLITTER
+
+TASK 2 :-   TEXT EDITOR
+
+
